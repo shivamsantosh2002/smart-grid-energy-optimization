@@ -1,37 +1,80 @@
 # Smart Grid Energy Optimization
 
-Reinforcement Learning based energy optimization for smart grids.
+Reinforcement Learning–based energy optimization for smart grids.
 
-## 📌 Problem Statement
-Traditional power grids suffer from inefficient energy distribution and high operational costs.
-This project applies Reinforcement Learning to optimize energy allocation and reduce wastage
-in smart grid environments.
+---
+
+## 📌 Project Overview
+
+Traditional power grids often suffer from inefficient energy distribution, leading to increased operational costs and energy wastage.  
+This project applies **Reinforcement Learning (RL)** techniques to optimize energy allocation in **smart grid environments**, enabling adaptive, data-driven decision-making for efficient power management.
+
+---
+
+## 🎯 Objectives
+
+- Optimize energy distribution in smart grids
+- Reduce power wastage and operational inefficiencies
+- Apply Reinforcement Learning for intelligent decision-making
+- Validate results through experimentation and analysis
+
+---
 
 ## 🛠️ Tech Stack
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Reinforcement Learning
+
+- **Programming Language:** Python  
+- **Libraries:** NumPy, Pandas, Matplotlib  
+- **Machine Learning:** Reinforcement Learning  
+- **Environment:** Jupyter Notebook  
+
+---
 
 ## ⚙️ Methodology
-- Data preprocessing and exploration
-- Smart grid environment modeling
-- RL agent training and optimization
-- Performance evaluation
 
-## 📊 Results
+1. **Data Preprocessing & Exploration**
+   - Load and analyze energy-related data
+   - Handle inconsistencies and normalize inputs
+
+2. **Environment Modeling**
+   - Simulate a smart grid environment
+   - Define states, actions, and reward mechanisms
+
+3. **Reinforcement Learning Agent**
+   - Train an RL agent to make optimal energy allocation decisions
+   - Continuously improve policy through interaction with the environment
+
+4. **Performance Evaluation**
+   - Measure efficiency improvements
+   - Compare optimized vs non-optimized energy distribution
+
+---
+
+## 📊 Results & Outcomes
+
 - Improved energy utilization efficiency
-- Reduced power wastage
-- Smarter decision-making using RL
+- Reduced energy wastage
+- Smarter, adaptive energy distribution decisions
+- Practical validation of Reinforcement Learning in smart grid systems
+
+---
 
 ## 📄 Research Publication
-This project is supported by a published research paper:
-**Optimized Sensor Orientation for Density Based Traffic Light Control**  
-Published at **6th International Conference of Emerging Technologies (INCET 2025)**
 
-📄 Paper: `Research_Paper.pdf`
+**Title:** Energy Optimization for Smart Grids Using Reinforcement Learning  
+**Author:** Shivam Santosh  
+**Conference:** 6th International Conference on Emerging Technology (INCET 2025)  
+**Publisher:** IEEE  
 
-## 📁 Repository Contents
-- `Code_Smart Grid Optimization.ipynb` – complete implementation
-- `Research_Paper.pdf` – published research paper
+🔗 **IEEE Xplore:**  
+https://ieeexplore.ieee.org/document/11140071  
+
+🔗 **DOI:**  
+https://doi.org/10.1109/INCET64471.2025.11140071  
+
+📌 **Note:**  
+Due to IEEE copyright restrictions, the full research paper PDF is not publicly shared.  
+This repository contains the complete implementation and experimental work corresponding to the published research.
+
+---
+
+
